@@ -1,23 +1,11 @@
 """
-Если запустить код задания, будет такой вывод:
-$ python task_04.py
-Python is a high-level, interpreted, general-purpose programming language.
+Добавить в конец списка words строку в переменной new_word.
 
-Получить из строки start_data такой список (удалены запятые и точка и строка
-разделена на слова):
-['Python', 'is', 'a', 'high-level', 'interpreted', 'general-purpose', 'programming', 'language']
+После обновления списка, вывести его на экран с помощью print.
 
-Полученный список вывести на экран с помощью print:
-$ python task_04.py
-['Python', 'is', 'a', 'high-level', 'interpreted', 'general-purpose', 'programming', 'language']
-
-Тут очень важный момент, что надо получить именно список (тип данных), а не,
-например, строку, которая похожа на показанный список.
-
-Ограничение: исходную строку start_data нельзя менять вручную.
+Список words нельзя менять вручную, то есть нельзя дописывать слово
+"result" в конце списка, надо поменять его с помощью Python.
 """
-filename = "script"
-python_extensions = ['.py', '.pyi', '.pyc', '.pyd', '.pyw', '.pyz']
-print(python_extensions)
-full_name
 
+words = ["line", "test", "column"]
+new_word = "result"
