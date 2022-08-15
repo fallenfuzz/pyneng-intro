@@ -25,9 +25,9 @@ Python, которые рассматриваются в онлайн среде
 При это не стоит читать книгу с самого начала для подготовки к курсу, это все будет на самом курсе.
 Из книги вам могут пригодится такие разделы:
 
-* [4. Типы данных в Python](https://pyneng.readthedocs.io/ru/latest/book/04_data_structures/index.html)
-* 5. Создание базовых скриптов: только раздел [Ввод информации пользователем](https://pyneng.readthedocs.io/ru/latest/book/05_basic_scripts/user_input.html)
-* 6. Контроль хода программы: только [if/elif/else](https://pyneng.readthedocs.io/ru/latest/book/06_control_structures/if_else.html) и [for](https://pyneng.readthedocs.io/ru/latest/book/06_control_structures/for.html)
+* [Типы данных в Python](https://pyneng.readthedocs.io/ru/latest/book/04_data_structures/index.html)
+* Создание базовых скриптов: только раздел [Ввод информации пользователем](https://pyneng.readthedocs.io/ru/latest/book/05_basic_scripts/user_input.html)
+* Контроль хода программы: только [if/elif/else](https://pyneng.readthedocs.io/ru/latest/book/06_control_structures/if_else.html) и [for](https://pyneng.readthedocs.io/ru/latest/book/06_control_structures/for.html)
 
 ## Подготовка к курсу на replit.com
 
