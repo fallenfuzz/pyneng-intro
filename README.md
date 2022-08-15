@@ -17,9 +17,9 @@ Python, которые рассматриваются в онлайн среде
 
 ## Ссылки
 
-* [репозиторий](https://github.com/pyneng/pyneng-intro)
 * [теория](https://youtube.com/playlist?list=PLah0HUih_ZRn7xwTQ2K5QT1_C9S_i-T9B)
 * [шаблон на replit.com](https://replit.com/@pyneng/pyneng-intro?v=1#README.md)
+* [репозиторий](https://github.com/pyneng/pyneng-intro)
 
 ## Подготовка к курсу на replit.com
 
