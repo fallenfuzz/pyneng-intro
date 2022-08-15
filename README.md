@@ -21,6 +21,14 @@ Python, которые рассматриваются в онлайн среде
 * [шаблон на replit.com](https://replit.com/@pyneng/pyneng-intro?v=1#README.md)
 * [репозиторий](https://github.com/pyneng/pyneng-intro)
 
+Также можно читать соответствующие темы в книге [Python для сетевых инженеров](https://pyneng.readthedocs.io/ru/latest/book/Part_I.html).
+При это не стоит читать книгу с самого начала для подготовки к курсу, это все будет на самом курсе.
+Из книги вам могут пригодится такие разделы:
+
+* [4. Типы данных в Python](https://pyneng.readthedocs.io/ru/latest/book/04_data_structures/index.html)
+* 5. Создание базовых скриптов: только раздел [Ввод информации пользователем](https://pyneng.readthedocs.io/ru/latest/book/05_basic_scripts/user_input.html)
+* 6. Контроль хода программы: только [if/elif/else](https://pyneng.readthedocs.io/ru/latest/book/06_control_structures/if_else.html) и [for](https://pyneng.readthedocs.io/ru/latest/book/06_control_structures/for.html)
+
 ## Подготовка к курсу на replit.com
 
 1. Для начала надо [зарегистрироваться на replit.com](https://replit.com/signup).
