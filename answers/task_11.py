@@ -53,7 +53,7 @@ if user_color.lower() in colors_lower:
 else:
     print("В списке colors нет такого цвета")
 
-# вариант 3
+# вариант 3, но в теории не было break
 user_color = input('Введите цвет: ')
 for color in colors:
     if user_color.lower() == color.lower():

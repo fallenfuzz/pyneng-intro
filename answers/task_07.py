@@ -35,6 +35,7 @@ index = int(input("Введите индекс числа: "))
 index_max = len(words) - 1
 index_min = 0 - len(words)
 
+# можно записать и так if index_min <= index <= index_max:
 if index <= index_max and index >= index_min:
     print(words[index])
 else:
