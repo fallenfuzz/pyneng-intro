@@ -53,16 +53,6 @@ if user_color.lower() in colors_lower:
 else:
     print("В списке colors нет такого цвета")
 
-# вариант 3, но в теории не было break
-user_color = input('Введите цвет: ')
-for color in colors:
-    if user_color.lower() == color.lower():
-        print('Такой цвет есть')
-        break
-else:
-    print('В списке colors нет такого цвета')
-
-
 # вариант 3
 
 colors = ["Green", 'RED', 'Pink', 'YELLOW', 'white', 'Black']
@@ -72,3 +62,12 @@ for color in colors:
     if user_color.lower() == color.lower():
         message = "Такой цвет есть"
 print(message)
+
+# вариант 4, но в теории не было break
+user_color = input('Введите цвет: ')
+for color in colors:
+    if user_color.lower() == color.lower():
+        print('Такой цвет есть')
+        break
+else:
+    print('В списке colors нет такого цвета')
