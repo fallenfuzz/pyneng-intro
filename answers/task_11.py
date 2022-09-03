@@ -63,3 +63,12 @@ else:
     print('В списке colors нет такого цвета')
 
 
+# вариант 3
+
+colors = ["Green", 'RED', 'Pink', 'YELLOW', 'white', 'Black']
+user_color = input("Введите цвет: ")
+message = "В списке colors нет такого цвета"
+for color in colors:
+    if user_color.lower() == color.lower():
+        message = "Такой цвет есть"
+print(message)
